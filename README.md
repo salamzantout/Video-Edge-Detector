@@ -1,0 +1,4 @@
+# Canny Edge Detector: Video
+Embedded system modeling was performed on a specific image processing application, an implementation of the Canny Edge Detector algorithm. The application was first converted from single image processing to real-time video handling (processing a sequence of images extracted from a stream of video frames). After that, a suitable embedded system model of this application was designed and described in a System-Level Description Language (SLDL), SpecC. Finally, the specification model was simulated for functional and timing validation, and then refined for synthesis and implementation as an embedded System-on-Chip (SoC) suitable for use in a digital camera. 
+
+All the steps mentioned above will be explained in details in a report and the code written can be found here too. 
